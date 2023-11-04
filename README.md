@@ -1,4 +1,4 @@
-# TOP-N-Predictability
+# Top-N-Predictability
 
 Dataset：
 
